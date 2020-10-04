@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/GenomaGames/Scenes/Menu.unity
+    guid: cc0591c92b12e4b469dc5d706fafcef0
+  - enabled: 1
+    path: Assets/GenomaGames/Scenes/Game.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
